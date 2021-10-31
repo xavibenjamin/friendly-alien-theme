@@ -241,6 +241,7 @@
               </div>
             </div>
           {% else %}
+            <div id="preproduct-pledge" data-id="{{product.id}}" style="text-align:left!important;"></div> <script> var ppxhr=new XMLHttpRequest,preproductDiv=document.getElementById("preproduct-pledge");shopify_product_id=preproductDiv.dataset.id,ppxhr.open("GET","https://preproduct.onrender.com/api/preproducts/"+shopify_product_id+".json"),ppxhr.send(),ppxhr.onload=function(){if(ppxhr.status>=200&&ppxhr.status<300&&204!=ppxhr.status&&"active"==JSON.parse(ppxhr.responseText).test_status){window.PP_storedButtons=[];let n=preproductDiv,o=window.ppParentsDeep||3;for(;o>0;o--)n.parentElement&&(n=n.parentElement);for(var t=n.getElementsByTagName("button"),e=t.length-1;e>=0;e--)window.PP_storedButtons.push(t[e]);Array.from(n.getElementsByTagName("input")).forEach(t=>{"submit"==t.type&&window.PP_storedButtons.push(t)});for(var s=n.getElementsByClassName("shopify-payment-button"),p=s.length-1;p>=0;p--)(s[p].type="button")&&window.PP_storedButtons.push(s[p]);window.PP_storedButtons.forEach(function(t){t.className.includes("search")||t.className.includes("wsl")||t.className.includes("pp-no-hide")||t.id.includes("menu")||t.id.includes("close")||(t.style.display="none")})}};  </script>
             <div class="product-description rte" itemprop="description">
               {{ product.description }}
             </div>
