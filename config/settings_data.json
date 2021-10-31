@@ -207,11 +207,11 @@
         "type": "featured-collection",
         "settings": {
           "title": "",
-          "featured_collection": "frontpage",
+          "featured_collection": "featured-homepage-collection",
           "num_per_row": 3,
           "num_rows": 2,
           "vendor_enable": false,
-          "show_sale_circle": true,
+          "show_sale_circle": false,
           "show_sold_out_circle": false,
           "center_grid_link": false
         }
