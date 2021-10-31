@@ -244,12 +244,13 @@
         "type": "rich-text",
         "settings": {
           "section_title": "",
-          "text": "<p>Soft, comfy, and size-inclusive clothing and other accessories for geeks, stoners, and queers.<\/p>",
-          "text_size": "medium"
+          "text": "<p>Soft and size-inclusive clothing (and other knickknacks) for geeks, stoners, and queers.<\/p>",
+          "text_size": "large"
         }
       },
       "1635718192a41c910e": {
         "type": "rich-text",
+        "disabled": true,
         "settings": {
           "section_title": "Talk about your brand",
           "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
