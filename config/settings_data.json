@@ -160,7 +160,7 @@
       "newsletter": {
         "type": "newsletter",
         "settings": {
-          "heading": "Subscribe to our newsletter",
+          "heading": "",
           "subtext": "<p>Sign up for the Friendly Alien Dispatch and get 25% off your next order<\/p>",
           "color_bg": "#fabae2"
         }
@@ -245,7 +245,56 @@
         "settings": {
           "section_title": "",
           "text": "<p>Soft, comfy, and size-inclusive clothing and other accessories for geeks, stoners, and queers.<\/p>",
+          "text_size": "medium"
+        }
+      },
+      "1635718192a41c910e": {
+        "type": "rich-text",
+        "settings": {
+          "section_title": "Talk about your brand",
+          "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
           "text_size": "large"
+        }
+      },
+      "163571825788fdba2e": {
+        "type": "slider",
+        "disabled": true,
+        "blocks": {
+          "163571825788fdba2e-0": {
+            "type": "image",
+            "settings": {
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "Image slide",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "163571825788fdba2e-1": {
+            "type": "image",
+            "settings": {
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "Image slide",
+              "button_label": "",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "163571825788fdba2e-0",
+          "163571825788fdba2e-1"
+        ],
+        "settings": {
+          "slider_height": "small",
+          "slider_autorotate": false,
+          "slider_autorotate_rate": 5,
+          "slider_home_transition": "slide",
+          "text_size": "medium"
         }
       }
     },
@@ -253,7 +302,9 @@
       "1633733565dca6ade8",
       "16337305398e0909b8",
       "newsletter",
-      "1633730474d27ecdde"
+      "1633730474d27ecdde",
+      "1635718192a41c910e",
+      "163571825788fdba2e"
     ]
   },
   "presets": {
