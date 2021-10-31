@@ -91,6 +91,7 @@
           },
           "footer-3": {
             "type": "newsletter",
+            "disabled": true,
             "settings": {
               "subtext": "<p>Sign up for the Friendly Alien Dispatch and get 25% off your next order<\/p>"
             }
@@ -158,7 +159,6 @@
       },
       "newsletter": {
         "type": "newsletter",
-        "disabled": true,
         "settings": {
           "heading": "Subscribe to our newsletter",
           "subtext": "<p>Sign up for the Friendly Alien Dispatch and get 25% off your next order<\/p>",
@@ -219,8 +219,8 @@
     },
     "content_for_index": [
       "1633733565dca6ade8",
-      "newsletter",
       "16337305398e0909b8",
+      "newsletter",
       "1633730474d27ecdde"
     ]
   },
