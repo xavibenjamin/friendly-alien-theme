@@ -168,6 +168,38 @@
       "1633730474d27ecdde": {
         "type": "gallery",
         "disabled": true,
+        "blocks": {
+          "3ab8af3d-7e20-42a4-9f02-494d65534c08": {
+            "type": "image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "d4cd196f-3a76-4e58-8aa1-d888e5f05e76": {
+            "type": "image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "199332f3-b1e2-4384-9580-ee5bbf5a51d1": {
+            "type": "image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "372f7293-1a89-4bb8-8994-2a9b11671907": {
+            "type": "image",
+            "settings": {
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "3ab8af3d-7e20-42a4-9f02-494d65534c08",
+          "d4cd196f-3a76-4e58-8aa1-d888e5f05e76",
+          "199332f3-b1e2-4384-9580-ee5bbf5a51d1",
+          "372f7293-1a89-4bb8-8994-2a9b11671907"
+        ],
         "settings": {
         }
       },
