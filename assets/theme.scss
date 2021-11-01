@@ -200,7 +200,7 @@ $max: max-width;
 }
 
 
-  $siteWidth: 1340px;
+  $siteWidth: 1030px;
 
 
 $gutter: 30px;
@@ -215,8 +215,6 @@ $small: 480px;
 $medium: 768px;
 $large: 769px;
 
-$wide: 1250px;
-
 
 $viewportIncrement: 1px;
 $postSmall: $small + $viewportIncrement;
@@ -229,10 +227,9 @@ $breakpoints: (
   'medium' '(min-width: #{$postSmall}) and (max-width: #{$medium})',
   'medium-down' '(max-width: #{$medium})',
   
-  'large' '(min-width: #{$large}) and (max-width: #{$wide})',
+  'large' '(min-width: #{$large})',
   
-  'post-large' '(min-width: #{$large})',
-  'wide' '(min-width: #{$wide})'
+  'post-large' '(min-width: #{$large})'
 );
 $breakpoint-has-widths: ('small', 'medium', 'medium-down', 'large', 'post-large', 'wide');
 $breakpoint-has-push:  ('medium', 'medium-down', 'large', 'post-large', 'wide');

@@ -1,6 +1,6 @@
 {
   "current": {
-    "enable_wide_layout": true,
+    "enable_wide_layout": false,
     "color_topbar_bg": "#f9cfe9",
     "color_body_bg": "#fffcfe",
     "color_footer_bg": "rgba(0,0,0,0)",
