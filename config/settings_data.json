@@ -51,11 +51,11 @@
           "logo": "shopify:\/\/shop_images\/friendly-alien-vertical-logo_copy_25000.png",
           "logo_max_width": "230",
           "nav_menu": "main-menu",
-          "nav_below_logo": false,
+          "nav_below_logo": true,
           "left_aligned_logo": true,
           "show_header_lines": true,
           "show_announcement": false,
-          "header_text": "Sign up for the newsletter and get 25% off your next order",
+          "header_text": "Use the code LAUNCH5 to get 5% off your order",
           "announcement_link": ""
         }
       },
