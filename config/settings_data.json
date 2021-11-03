@@ -297,6 +297,26 @@
           "slider_home_transition": "slide",
           "text_size": "medium"
         }
+      },
+      "password-header": {
+        "type": "password-header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/logo-transparent-vertical1000px.png",
+          "logo_max_width": "250"
+        }
+      },
+      "password-content": {
+        "type": "password-content",
+        "settings": {
+          "title": "",
+          "newsletter_enable": true,
+          "newsletter_form_heading": "Soft and size-inclusive clothing and other cool shit for queers, stoners, and geeks",
+          "newsletter_form_subheading": "<p>Sign up for the newsletter and get 15% off on launch day!<\/p>",
+          "newsletter_placeholder": "Email address",
+          "newsletter_button_text": "Notify me",
+          "show_share_buttons": true,
+          "social_message": "Be a friend, tell a friend"
+        }
       }
     },
     "content_for_index": [
