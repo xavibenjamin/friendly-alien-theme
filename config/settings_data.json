@@ -123,13 +123,13 @@
         "settings": {
           "product_vendor_enable": false,
           "product_quantity_enable": false,
-          "product_image_zoom_type": "lightbox",
+          "product_image_zoom_type": "zoom-in",
           "product_thumbnails_position": "below",
           "show_extra_tab": false,
           "extra_tab_content": "",
           "social_sharing": true,
           "enable_payment_button": true,
-          "add_to_cart_width": "small"
+          "add_to_cart_width": "large"
         }
       },
       "article-template": {
