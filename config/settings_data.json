@@ -81,7 +81,7 @@
             "type": "text",
             "settings": {
               "title": "About",
-              "richtext": "<p>Friendly Alien is an indie shop by <a href=\"https:\/\/smithtimmytim.com\" target=\"_blank\" title=\"Tim Smith's Personal Website\">Timothy B. Smith<\/a>.<\/p>"
+              "richtext": "<p>Friendly Alien is an indie shop by <a href=\"https:\/\/xavibenjamin.com\" title=\"Xavi Benjamín's Personal Site\">Xavi Benjamín<\/a>.<\/p>"
             }
           },
           "footer-2": {
@@ -327,7 +327,15 @@
       "1633730474d27ecdde",
       "1635718192a41c910e",
       "163571825788fdba2e"
-    ]
+    ],
+    "blocks": {
+      "855628211100114053": {
+        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": true,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Vintage": {
